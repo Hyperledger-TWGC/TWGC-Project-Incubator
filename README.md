@@ -19,7 +19,7 @@
 
 
 
-### 项目状态Badge
+### 项目状态Badge 素材
 ![](https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE%E7%8A%B6%E6%80%81-%E6%B4%BB%E8%B7%83Active-green)
 
 ![](https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE%E7%8A%B6%E6%80%81-%E5%BD%92%E6%A1%A3Archived-lightgrey)
