@@ -9,6 +9,7 @@
     - 线下：包括但不限于RocketChat，邮件列表，微信群
 1. 至少两位组长批准Approve后，正式加入TWGC
     - 如果特殊情况下组长无法表决（包括缺席，明显的利益冲突），可以由常务组员Active Volunteer代替
+    - Merge PR，然后提案者与TWGC协作进行项目归属迁移
 
 ## 审核项
 - 需要符合Hyperledger的项目范围
