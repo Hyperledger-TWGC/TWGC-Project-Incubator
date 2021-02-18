@@ -15,3 +15,11 @@
 - 符合Hyperledger的[守则Code of Conduct](https://wiki.hyperledger.org/display/HYP/Hyperledger+Code+of+Conduct)
 - 有明确的产出物
 - 其他记录在提案模版中的要求和审核项
+
+
+
+
+### 项目状态Badge
+![](https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE%E7%8A%B6%E6%80%81-%E6%B4%BB%E8%B7%83Active-green)
+
+![](https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE%E7%8A%B6%E6%80%81-%E5%BD%92%E6%A1%A3Archived-lightgrey)
