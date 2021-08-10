@@ -33,11 +33,11 @@ https://github.com/SamYuan1990/Probe/blob/main/doc/HowToConfigFabricParameters.m
 
 ## 路线图和计划
 目前有几个方面
-0.0.5 | support different deploy plan with peers | 4/5 6/3 8/1
-0.0.6 | support different deploy plan with orgs | 2 3 4
-0.0.7 | support different deploy plan with gossip | 1:1 1:2 1:3
-0.0.8 | support different deploy plan with mvcc | 10 20 40
-0.0.9 | support different deploy plan with data size | 10k 512k 1M
+0.0.5 | support different sample deploy plan with peers
+0.0.6 | support different sample deploy plan with orgs
+0.0.7 | support different sample deploy plan with gossip
+0.0.8 | support different sample deploy plan with mvcc
+0.0.9 | support different sample deploy plan with data size
 
 ## 项目的活跃度
 ### 影响力
