@@ -11,7 +11,7 @@ https://github.com/SamYuan1990/Probe
 -->
 
 ## 简介
-根据[性能测试白皮书](https://www.hyperledger.org/learn/publications/blockchain-performance-metrics), Probe是一个面向Hyperledger Fabric维护者，用户，研究者的web UI的应用程序，短期而言旨在提供控制被测网络（SUT）并协调压力生成工具于观察工具，来针对性的观察Fabric出块参数对于Fabric网络性能的影响。
+根据[性能测试白皮书](https://www.hyperledger.org/learn/publications/blockchain-performance-metrics), Probe是一个面向Hyperledger Fabric维护者，用户，研究者的web UI的应用程序，目前旨在提供一种网络生成器和测试工具之间的协调工具，来针对性的观察Fabric出块参数对于Fabric网络性能的影响。
 
 - 提供循环测试控制。
 - 提供可视化的结果对比图。
