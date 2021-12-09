@@ -21,8 +21,8 @@
 - Hyperledger项目需要启用DCO BOT
     - DCO BOT 配置于 `Settings -> Branches -> Branch protection rules`
     - 每一个提交都需要签名以满足DCO校验
-- Azure Pipeline是默认的Hyperledger项目CICD工具，请优先考虑采用
-    - [TWGC在Azure的工作空间](https://dev.azure.com/Hyperledger/TWGC)
+- CICD工具，请优先考虑采用Github Actions
+    - [TWGC在Azure的工作空间](https://dev.azure.com/Hyperledger/TWGC)，正在逐步迁移到Github Actions
 ### 项目状态Badge 素材
 ![](https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE%E7%8A%B6%E6%80%81-%E6%B4%BB%E8%B7%83Active-green)
 
